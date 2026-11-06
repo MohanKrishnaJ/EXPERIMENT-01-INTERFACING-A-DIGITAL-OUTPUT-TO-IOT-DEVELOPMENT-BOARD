@@ -231,6 +231,7 @@ void Error_Handler(void)
 ```
 
 ## OUTPUT
+<img width="897" height="510" alt="Screenshot 2026-10-17 092339" src="https://github.com/user-attachments/assets/2b197e64-3905-4a1c-8c9b-e650a6272475" />
 <img width="1280" height="720" alt="WhatsApp Image 2026-10-30 at 9 11 27 AM" src="https://github.com/user-attachments/assets/88b43e2a-8e07-4f90-b2cf-78c421d60731" />
 <img width="1280" height="720" alt="WhatsApp Image 2026-10-30 at 9 11 42 AM" src="https://github.com/user-attachments/assets/71d5605a-358c-4a6b-9412-0f7680e03456" />
 ## Result
